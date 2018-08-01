@@ -33,7 +33,13 @@
     "package_name": "chenmc.sms.code.helper"
   },
   {
+    "package_name": "cn.com.ry.app.android"
+  },
+  {
     "package_name": "cn.oneplus.photos"
+  },
+  {
+    "package_name": "cn.wq.myandroidtoolsxposed"
   },
   {
     "package_name": "com.AliveDev.reimu"
@@ -156,13 +162,16 @@
     "package_name": "com.android.vending.billing.InAppBillingService.CRAC"
   },
   {
+    "package_name": "com.aniplex.kirarafantasia"
+  },
+  {
     "package_name": "com.app.pornhub"
   },
   {
-    "package_name": "com.audlabs.viperfx"
+    "package_name": "com.artifexmundi.balefire"
   },
   {
-    "package_name": "com.bilibili.app.in"
+    "package_name": "com.audlabs.viperfx"
   },
   {
     "package_name": "com.bongoman.apkrenamerholofree"
@@ -196,9 +205,6 @@
   },
   {
     "package_name": "com.cjzchz.alone"
-  },
-  {
-    "package_name": "com.clover.daysmatter"
   },
   {
     "package_name": "com.cnvcs.gomoku"
@@ -264,16 +270,19 @@
     "package_name": "com.dolby"
   },
   {
-    "package_name": "com.duokan.phone.remotecontroller"
-  },
-  {
     "package_name": "com.dv.adm"
   },
   {
     "package_name": "com.dv.adm.pay"
   },
   {
+    "package_name": "com.easilydo.mail"
+  },
+  {
     "package_name": "com.economist.grevocabulary"
+  },
+  {
+    "package_name": "com.economist.hummingbird"
   },
   {
     "package_name": "com.evernote"
@@ -303,6 +312,9 @@
     "package_name": "com.flavionet.android.camera.lite"
   },
   {
+    "package_name": "com.forgepond.locksmith"
+  },
+  {
     "package_name": "com.foursquare.robin"
   },
   {
@@ -328,6 +340,9 @@
   },
   {
     "package_name": "com.github.yeriomin.yalpstore"
+  },
+  {
+    "package_name": "com.glgjing.marvel"
   },
   {
     "package_name": "com.glitch.stitchandshare"
@@ -471,6 +486,9 @@
     "package_name": "com.google.earth"
   },
   {
+    "package_name": "com.google.vr.apps.ornament"
+  },
+  {
     "package_name": "com.google.vr.vrcore"
   },
   {
@@ -556,6 +574,9 @@
   },
   {
     "package_name": "com.mhook.MrSFastTranslation"
+  },
+  {
+    "package_name": "com.miHoYo.bh3.huawei"
   },
   {
     "package_name": "com.miHoYo.enterprise.NGHSoD"
@@ -732,6 +753,12 @@
     "package_name": "com.rhmsoft.edit.pro"
   },
   {
+    "package_name": "com.rjh.rjhospital"
+  },
+  {
+    "package_name": "com.robtopx.geometryjump"
+  },
+  {
     "package_name": "com.rootify.emptyfoldercleaner"
   },
   {
@@ -763,6 +790,12 @@
   },
   {
     "package_name": "com.scheffsblend.designertools"
+  },
+  {
+    "package_name": "com.sec.android.app.sbrowser"
+  },
+  {
+    "package_name": "com.sec.android.inputmethod"
   },
   {
     "package_name": "com.skype.raider"
@@ -873,6 +906,9 @@
     "package_name": "com.vladlee.callsblacklist"
   },
   {
+    "package_name": "com.vsco.cam"
+  },
+  {
     "package_name": "com.wapi.wapicertmanage"
   },
   {
@@ -903,6 +939,9 @@
     "package_name": "com.xiaomi.xmsf"
   },
   {
+    "package_name": "com.xunmeng.pinduoduo"
+  },
+  {
     "package_name": "com.zacharee1.systemuituner"
   },
   {
@@ -919,6 +958,9 @@
   },
   {
     "package_name": "flar2.devcheck"
+  },
+  {
+    "package_name": "forgepond.com.mobileiron.android.securebrowser"
   },
   {
     "package_name": "github.tornaco.xposedmoduletest"
@@ -939,6 +981,9 @@
     "package_name": "io.keybase.ossifrage"
   },
   {
+    "package_name": "io.stellio.player"
+  },
+  {
     "package_name": "it.simonesestito.ntiles"
   },
   {
@@ -949,6 +994,9 @@
   },
   {
     "package_name": "jp.naver.line.android"
+  },
+  {
+    "package_name": "jp.pokemon.pokemonquest"
   },
   {
     "package_name": "keepass2android.keepass2android"
@@ -1095,6 +1143,9 @@
     "package_name": "org.mozilla.firefox"
   },
   {
+    "package_name": "org.mozilla.firefox_beta"
+  },
+  {
     "package_name": "org.mozilla.focus"
   },
   {
@@ -1122,6 +1173,9 @@
     "package_name": "org.xdty.callerinfo.plugin"
   },
   {
+    "package_name": "photo.video.instasaveapp"
+  },
+  {
     "package_name": "piuk.blockchain.android"
   },
   {
@@ -1144,6 +1198,12 @@
   },
   {
     "package_name": "rikka.smscodehelper"
+  },
+  {
+    "package_name": "roman10.media.converterv2"
+  },
+  {
+    "package_name": "ru.meefik.busybox"
   },
   {
     "package_name": "ru.zdevs.zarchiver"
